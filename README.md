@@ -1,1 +1,1 @@
-# Newsletter Signup with NodeJS
+# Mailchimp Newsletter Signup based on NodeJS
